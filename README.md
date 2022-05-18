@@ -23,8 +23,6 @@
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-微信小程序-003545?style=flat-square&logo=WeChat&logoColor=white)](https://mp.weixin.qq.com/)
-[![](https://img.shields.io/badge/-uni-app-6DB33F?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.net.cn/)
-
 
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
